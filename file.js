@@ -13,7 +13,7 @@ else
 }
 </script>
 
-<p>Нажмите на звезду, и изображение изменится!</p>
+<p>Нажмите на звезду, чтобы изменить цвет!</p>
 
 <img id="myimage" onclick="changeImage()"
 src="images/star-first.png" width="256" height="256">
